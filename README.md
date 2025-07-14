@@ -39,10 +39,8 @@ Semestre: Primer semestre 2025
 ├── 3_ETL.py                 # Flujo ETL: limpieza y exportación a MongoDB
 ├── 4_Red_neuronal.py        # Red neuronal multicapa desde cero
 ├── 5_Dashboard.py           # Visualización de métricas y análisis final
-├── documentos/              # Presentaciones, diagramas y documentación técnica
-│   ├── documentacion_etl.docx
-│   ├── flujo_etl_diagrama.pdf
-│   └── Presentacion_Final_DataHub_Personal.pptx
+├── presentacion/              # Presentaciones, diagramas y documentación técnica
+│   ├── redneuronal.pdf
 ```
 
 ---
